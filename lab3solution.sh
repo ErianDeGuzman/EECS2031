@@ -1,5 +1,5 @@
 #!/bin/sh
-printf 'Grock- '
+printf 'Grock- ' #testing for git
 read command
 while test "$command" != "quit"
 do
